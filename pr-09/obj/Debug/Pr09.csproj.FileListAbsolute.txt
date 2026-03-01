@@ -1,0 +1,12 @@
+D:\МДК\Пр МДК\Pr09\obj\Debug\Pr09.csproj.AssemblyReference.cache
+D:\МДК\Пр МДК\Pr09\obj\Debug\Pr09.csproj.CoreCompileInputs.cache
+D:\МДК\Пр МДК\Pr09\bin\Debug\input1.txt
+D:\МДК\Пр МДК\Pr09\bin\Debug\input2.txt
+D:\МДК\Пр МДК\Pr09\bin\Debug\Pr09.exe.config
+D:\МДК\Пр МДК\Pr09\bin\Debug\Pr09.exe
+D:\МДК\Пр МДК\Pr09\bin\Debug\Pr09.pdb
+D:\МДК\Пр МДК\Pr09\obj\Debug\Pr09.exe
+D:\МДК\Пр МДК\Pr09\obj\Debug\Pr09.pdb
+D:\МДК\Пр МДК\Pr09\bin\Debug\input3.txt
+D:\МДК\Пр МДК\Pr09\bin\Debug\input4.txt
+D:\МДК\Пр МДК\Pr09\bin\Debug\input5.txt

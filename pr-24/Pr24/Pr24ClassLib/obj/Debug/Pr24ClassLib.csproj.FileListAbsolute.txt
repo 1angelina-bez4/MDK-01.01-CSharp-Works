@@ -1,0 +1,12 @@
+C:\Users\student247\source\repos\Pr24\Pr24ClassLib\bin\Debug\Pr24ClassLib.dll
+C:\Users\student247\source\repos\Pr24\Pr24ClassLib\bin\Debug\Pr24ClassLib.pdb
+C:\Users\student247\source\repos\Pr24\Pr24ClassLib\obj\Debug\Pr24ClassLib.csproj.AssemblyReference.cache
+C:\Users\student247\source\repos\Pr24\Pr24ClassLib\obj\Debug\Pr24ClassLib.csproj.CoreCompileInputs.cache
+C:\Users\student247\source\repos\Pr24\Pr24ClassLib\obj\Debug\Pr24ClassLib.dll
+C:\Users\student247\source\repos\Pr24\Pr24ClassLib\obj\Debug\Pr24ClassLib.pdb
+D:\study\МДК-С#\Пр МДК\Pr24\Pr24\Pr24ClassLib\bin\Debug\Pr24ClassLib.dll
+D:\study\МДК-С#\Пр МДК\Pr24\Pr24\Pr24ClassLib\bin\Debug\Pr24ClassLib.pdb
+D:\study\МДК-С#\Пр МДК\Pr24\Pr24\Pr24ClassLib\obj\Debug\Pr24ClassLib.csproj.AssemblyReference.cache
+D:\study\МДК-С#\Пр МДК\Pr24\Pr24\Pr24ClassLib\obj\Debug\Pr24ClassLib.csproj.CoreCompileInputs.cache
+D:\study\МДК-С#\Пр МДК\Pr24\Pr24\Pr24ClassLib\obj\Debug\Pr24ClassLib.dll
+D:\study\МДК-С#\Пр МДК\Pr24\Pr24\Pr24ClassLib\obj\Debug\Pr24ClassLib.pdb

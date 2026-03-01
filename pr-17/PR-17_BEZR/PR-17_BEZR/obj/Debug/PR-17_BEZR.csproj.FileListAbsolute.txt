@@ -1,0 +1,15 @@
+D:\МДК\Пр МДК\PR-17_BEZR\PR-17_BEZR\PR-17_BEZR\obj\Debug\PR-17_BEZR.csproj.AssemblyReference.cache
+D:\МДК\Пр МДК\PR-17_BEZR\PR-17_BEZR\PR-17_BEZR\obj\Debug\PR-17_BEZR.csproj.CoreCompileInputs.cache
+D:\МДК\Пр МДК\PR-17_BEZR\PR-17_BEZR\PR-17_BEZR\bin\Debug\PR-17_BEZR.exe.config
+D:\МДК\Пр МДК\PR-17_BEZR\PR-17_BEZR\PR-17_BEZR\bin\Debug\PR-17_BEZR.exe
+D:\МДК\Пр МДК\PR-17_BEZR\PR-17_BEZR\PR-17_BEZR\bin\Debug\PR-17_BEZR.pdb
+D:\МДК\Пр МДК\PR-17_BEZR\PR-17_BEZR\PR-17_BEZR\obj\Debug\PR-17_BEZR.exe
+D:\МДК\Пр МДК\PR-17_BEZR\PR-17_BEZR\PR-17_BEZR\obj\Debug\PR-17_BEZR.pdb
+D:\МДК-С#\Пр МДК\PR-17_BEZR\PR-17_BEZR\PR-17_BEZR\bin\Debug\PR-17_BEZR.exe.config
+D:\МДК-С#\Пр МДК\PR-17_BEZR\PR-17_BEZR\PR-17_BEZR\bin\Debug\PR-17_BEZR.exe
+D:\МДК-С#\Пр МДК\PR-17_BEZR\PR-17_BEZR\PR-17_BEZR\bin\Debug\PR-17_BEZR.pdb
+D:\МДК-С#\Пр МДК\PR-17_BEZR\PR-17_BEZR\PR-17_BEZR\obj\Debug\PR-17_BEZR.csproj.AssemblyReference.cache
+D:\МДК-С#\Пр МДК\PR-17_BEZR\PR-17_BEZR\PR-17_BEZR\obj\Debug\PR-17_BEZR.exe.config
+D:\МДК-С#\Пр МДК\PR-17_BEZR\PR-17_BEZR\PR-17_BEZR\obj\Debug\PR-17_BEZR.csproj.CoreCompileInputs.cache
+D:\МДК-С#\Пр МДК\PR-17_BEZR\PR-17_BEZR\PR-17_BEZR\obj\Debug\PR-17_BEZR.exe
+D:\МДК-С#\Пр МДК\PR-17_BEZR\PR-17_BEZR\PR-17_BEZR\obj\Debug\PR-17_BEZR.pdb

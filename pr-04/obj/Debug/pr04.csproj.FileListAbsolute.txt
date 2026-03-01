@@ -1,0 +1,7 @@
+D:\МДК\Пр МДК\pr04\bin\Debug\pr04.exe.config
+D:\МДК\Пр МДК\pr04\bin\Debug\pr04.exe
+D:\МДК\Пр МДК\pr04\bin\Debug\pr04.pdb
+D:\МДК\Пр МДК\pr04\obj\Debug\pr04.csproj.AssemblyReference.cache
+D:\МДК\Пр МДК\pr04\obj\Debug\pr04.csproj.CoreCompileInputs.cache
+D:\МДК\Пр МДК\pr04\obj\Debug\pr04.exe
+D:\МДК\Пр МДК\pr04\obj\Debug\pr04.pdb

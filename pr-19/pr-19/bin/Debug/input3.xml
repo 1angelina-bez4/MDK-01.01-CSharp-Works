@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ListOfNumb>
+	<Inputs>
+		<Numbers>
+			<Number>10</Number>
+			<Number>5</Number>
+			<Number>20</Number>
+		</Numbers>
+	</Inputs>
+</ListOfNumb>

@@ -1,0 +1,6 @@
+D:\study\МДК-С#\Пр МДК\pr_32\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\study\МДК-С#\Пр МДК\pr_32\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\study\МДК-С#\Пр МДК\pr_32\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+D:\study\МДК-С#\Пр МДК\pr_32\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\study\МДК-С#\Пр МДК\pr_32\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\study\МДК-С#\Пр МДК\pr_32\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

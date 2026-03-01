@@ -1,0 +1,14 @@
+C:\Users\student247\source\repos\pr-13\pr-13\obj\Debug\pr-13.csproj.AssemblyReference.cache
+C:\Users\student247\source\repos\pr-13\pr-13\obj\Debug\pr-13.csproj.CoreCompileInputs.cache
+C:\Users\student247\source\repos\pr-13\pr-13\bin\Debug\pr-13.exe.config
+C:\Users\student247\source\repos\pr-13\pr-13\bin\Debug\pr-13.exe
+C:\Users\student247\source\repos\pr-13\pr-13\bin\Debug\pr-13.pdb
+C:\Users\student247\source\repos\pr-13\pr-13\obj\Debug\pr-13.exe
+C:\Users\student247\source\repos\pr-13\pr-13\obj\Debug\pr-13.pdb
+D:\МДК\Пр МДК\pr-13\pr-13\pr-13\bin\Debug\pr-13.exe.config
+D:\МДК\Пр МДК\pr-13\pr-13\pr-13\bin\Debug\pr-13.exe
+D:\МДК\Пр МДК\pr-13\pr-13\pr-13\bin\Debug\pr-13.pdb
+D:\МДК\Пр МДК\pr-13\pr-13\pr-13\obj\Debug\pr-13.csproj.AssemblyReference.cache
+D:\МДК\Пр МДК\pr-13\pr-13\pr-13\obj\Debug\pr-13.csproj.CoreCompileInputs.cache
+D:\МДК\Пр МДК\pr-13\pr-13\pr-13\obj\Debug\pr-13.exe
+D:\МДК\Пр МДК\pr-13\pr-13\pr-13\obj\Debug\pr-13.pdb

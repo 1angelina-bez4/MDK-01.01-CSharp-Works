@@ -1,0 +1,21 @@
+C:\Users\student247\source\repos\Pr24\Pr24\bin\Debug\Pr24.exe.config
+C:\Users\student247\source\repos\Pr24\Pr24\bin\Debug\Pr24.exe
+C:\Users\student247\source\repos\Pr24\Pr24\bin\Debug\Pr24.pdb
+C:\Users\student247\source\repos\Pr24\Pr24\obj\Debug\Pr24.csproj.AssemblyReference.cache
+C:\Users\student247\source\repos\Pr24\Pr24\obj\Debug\Pr24.csproj.CoreCompileInputs.cache
+C:\Users\student247\source\repos\Pr24\Pr24\obj\Debug\Pr24.exe
+C:\Users\student247\source\repos\Pr24\Pr24\obj\Debug\Pr24.pdb
+C:\Users\student247\source\repos\Pr24\Pr24\bin\Debug\Pr24ClassLib.dll
+C:\Users\student247\source\repos\Pr24\Pr24\bin\Debug\Pr24ClassLib.pdb
+C:\Users\student247\source\repos\Pr24\Pr24\obj\Debug\Pr24.csproj.CopyComplete
+D:\study\МДК-С#\Пр МДК\Pr24\Pr24\Pr24\bin\Debug\Pr24.exe.config
+D:\study\МДК-С#\Пр МДК\Pr24\Pr24\Pr24\bin\Debug\Pr24.exe
+D:\study\МДК-С#\Пр МДК\Pr24\Pr24\Pr24\bin\Debug\Pr24.pdb
+D:\study\МДК-С#\Пр МДК\Pr24\Pr24\Pr24\bin\Debug\Pr24ClassLib.dll
+D:\study\МДК-С#\Пр МДК\Pr24\Pr24\Pr24\bin\Debug\Pr24ClassLib.pdb
+D:\study\МДК-С#\Пр МДК\Pr24\Pr24\Pr24\obj\Debug\Pr24.csproj.AssemblyReference.cache
+D:\study\МДК-С#\Пр МДК\Pr24\Pr24\Pr24\obj\Debug\Pr24.exe.config
+D:\study\МДК-С#\Пр МДК\Pr24\Pr24\Pr24\obj\Debug\Pr24.csproj.CoreCompileInputs.cache
+D:\study\МДК-С#\Пр МДК\Pr24\Pr24\Pr24\obj\Debug\Pr24.csproj.Up2Date
+D:\study\МДК-С#\Пр МДК\Pr24\Pr24\Pr24\obj\Debug\Pr24.exe
+D:\study\МДК-С#\Пр МДК\Pr24\Pr24\Pr24\obj\Debug\Pr24.pdb

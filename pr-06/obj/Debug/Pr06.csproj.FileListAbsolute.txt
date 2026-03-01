@@ -1,0 +1,7 @@
+D:\МДК\Пр МДК\Pr06\obj\Debug\Pr06.csproj.AssemblyReference.cache
+D:\МДК\Пр МДК\Pr06\obj\Debug\Pr06.csproj.CoreCompileInputs.cache
+D:\МДК\Пр МДК\Pr06\bin\Debug\Pr06.exe.config
+D:\МДК\Пр МДК\Pr06\bin\Debug\Pr06.exe
+D:\МДК\Пр МДК\Pr06\bin\Debug\Pr06.pdb
+D:\МДК\Пр МДК\Pr06\obj\Debug\Pr06.exe
+D:\МДК\Пр МДК\Pr06\obj\Debug\Pr06.pdb

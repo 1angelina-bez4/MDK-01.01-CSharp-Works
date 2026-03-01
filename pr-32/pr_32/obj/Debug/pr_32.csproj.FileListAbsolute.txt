@@ -1,0 +1,11 @@
+D:\study\МДК-С#\Пр МДК\pr_32\pr_32\bin\Debug\pr_32.exe.config
+D:\study\МДК-С#\Пр МДК\pr_32\pr_32\bin\Debug\pr_32.exe
+D:\study\МДК-С#\Пр МДК\pr_32\pr_32\bin\Debug\pr_32.pdb
+D:\study\МДК-С#\Пр МДК\pr_32\pr_32\obj\Debug\pr_32.csproj.AssemblyReference.cache
+D:\study\МДК-С#\Пр МДК\pr_32\pr_32\obj\Debug\pr_32.csproj.CoreCompileInputs.cache
+D:\study\МДК-С#\Пр МДК\pr_32\pr_32\obj\Debug\pr_32.exe
+D:\study\МДК-С#\Пр МДК\pr_32\pr_32\obj\Debug\pr_32.pdb
+D:\study\МДК-С#\Пр МДК\pr_32\pr_32\obj\Debug\pr_32.exe.config
+D:\study\МДК-С#\Пр МДК\pr_32\pr_32\bin\Debug\ClassLibrary1.dll
+D:\study\МДК-С#\Пр МДК\pr_32\pr_32\bin\Debug\ClassLibrary1.pdb
+D:\study\МДК-С#\Пр МДК\pr_32\pr_32\obj\Debug\pr_32.csproj.Up2Date

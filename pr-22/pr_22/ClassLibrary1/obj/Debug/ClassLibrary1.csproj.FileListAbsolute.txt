@@ -1,0 +1,12 @@
+C:\Users\student247\source\repos\pr_22\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\student247\source\repos\pr_22\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\student247\source\repos\pr_22\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\student247\source\repos\pr_22\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\student247\source\repos\pr_22\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\student247\source\repos\pr_22\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+D:\МДК-С#\Пр МДК\pr_22\pr_22\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\МДК-С#\Пр МДК\pr_22\pr_22\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\МДК-С#\Пр МДК\pr_22\pr_22\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+D:\МДК-С#\Пр МДК\pr_22\pr_22\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\МДК-С#\Пр МДК\pr_22\pr_22\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\МДК-С#\Пр МДК\pr_22\pr_22\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

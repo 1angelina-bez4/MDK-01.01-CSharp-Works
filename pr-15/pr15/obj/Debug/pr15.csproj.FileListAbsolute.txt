@@ -1,0 +1,7 @@
+D:\МДК\Пр МДК\pr15\pr15\bin\Debug\pr15.exe.config
+D:\МДК\Пр МДК\pr15\pr15\bin\Debug\pr15.exe
+D:\МДК\Пр МДК\pr15\pr15\bin\Debug\pr15.pdb
+D:\МДК\Пр МДК\pr15\pr15\obj\Debug\pr15.csproj.AssemblyReference.cache
+D:\МДК\Пр МДК\pr15\pr15\obj\Debug\pr15.csproj.CoreCompileInputs.cache
+D:\МДК\Пр МДК\pr15\pr15\obj\Debug\pr15.exe
+D:\МДК\Пр МДК\pr15\pr15\obj\Debug\pr15.pdb

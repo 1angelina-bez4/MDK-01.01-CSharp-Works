@@ -1,0 +1,14 @@
+D:\МДК\Пр МДК\pr-19\pr-19\bin\Debug\pr-19.exe.config
+D:\МДК\Пр МДК\pr-19\pr-19\bin\Debug\pr-19.exe
+D:\МДК\Пр МДК\pr-19\pr-19\bin\Debug\pr-19.pdb
+D:\МДК\Пр МДК\pr-19\pr-19\obj\Debug\pr-19.csproj.AssemblyReference.cache
+D:\МДК\Пр МДК\pr-19\pr-19\obj\Debug\pr-19.csproj.CoreCompileInputs.cache
+D:\МДК\Пр МДК\pr-19\pr-19\obj\Debug\pr-19.exe
+D:\МДК\Пр МДК\pr-19\pr-19\obj\Debug\pr-19.pdb
+D:\МДК\Пр МДК\pr-19\pr-19\bin\Debug\input1.xml
+D:\МДК\Пр МДК\pr-19\pr-19\bin\Debug\output1.xml
+D:\МДК\Пр МДК\pr-19\pr-19\bin\Debug\input2.xml
+D:\МДК\Пр МДК\pr-19\pr-19\bin\Debug\output2.xml
+D:\МДК\Пр МДК\pr-19\pr-19\bin\Debug\output3.xml
+D:\МДК\Пр МДК\pr-19\pr-19\bin\Debug\input3.xml
+D:\МДК\Пр МДК\pr-19\pr-19\bin\Debug\input4.xml

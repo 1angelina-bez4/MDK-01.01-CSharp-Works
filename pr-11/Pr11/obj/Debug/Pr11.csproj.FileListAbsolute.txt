@@ -1,0 +1,7 @@
+D:\МДК\Пр МДК\Pr11\Pr11\bin\Debug\Pr11.exe.config
+D:\МДК\Пр МДК\Pr11\Pr11\bin\Debug\Pr11.exe
+D:\МДК\Пр МДК\Pr11\Pr11\bin\Debug\Pr11.pdb
+D:\МДК\Пр МДК\Pr11\Pr11\obj\Debug\Pr11.csproj.AssemblyReference.cache
+D:\МДК\Пр МДК\Pr11\Pr11\obj\Debug\Pr11.csproj.CoreCompileInputs.cache
+D:\МДК\Пр МДК\Pr11\Pr11\obj\Debug\Pr11.exe
+D:\МДК\Пр МДК\Pr11\Pr11\obj\Debug\Pr11.pdb

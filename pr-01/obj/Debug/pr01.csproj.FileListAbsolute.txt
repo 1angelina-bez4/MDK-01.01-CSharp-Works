@@ -1,0 +1,7 @@
+D:\pr01\bin\Debug\pr01.exe.config
+D:\pr01\bin\Debug\pr01.exe
+D:\pr01\bin\Debug\pr01.pdb
+D:\pr01\obj\Debug\pr01.csproj.AssemblyReference.cache
+D:\pr01\obj\Debug\pr01.csproj.CoreCompileInputs.cache
+D:\pr01\obj\Debug\pr01.exe
+D:\pr01\obj\Debug\pr01.pdb

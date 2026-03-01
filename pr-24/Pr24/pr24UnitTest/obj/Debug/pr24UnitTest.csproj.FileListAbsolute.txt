@@ -1,0 +1,32 @@
+C:\Users\student247\source\repos\Pr24\pr24UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\student247\source\repos\Pr24\pr24UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\student247\source\repos\Pr24\pr24UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\student247\source\repos\Pr24\pr24UnitTest\bin\Debug\pr24UnitTest.dll
+C:\Users\student247\source\repos\Pr24\pr24UnitTest\bin\Debug\pr24UnitTest.pdb
+C:\Users\student247\source\repos\Pr24\pr24UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\student247\source\repos\Pr24\pr24UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\student247\source\repos\Pr24\pr24UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\student247\source\repos\Pr24\pr24UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\student247\source\repos\Pr24\pr24UnitTest\obj\Debug\pr24UnitTest.csproj.AssemblyReference.cache
+C:\Users\student247\source\repos\Pr24\pr24UnitTest\obj\Debug\pr24UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\student247\source\repos\Pr24\pr24UnitTest\obj\Debug\pr24UnitTest.csproj.CopyComplete
+C:\Users\student247\source\repos\Pr24\pr24UnitTest\obj\Debug\pr24UnitTest.dll
+C:\Users\student247\source\repos\Pr24\pr24UnitTest\obj\Debug\pr24UnitTest.pdb
+C:\Users\student247\source\repos\Pr24\pr24UnitTest\bin\Debug\Pr24.exe
+C:\Users\student247\source\repos\Pr24\pr24UnitTest\bin\Debug\Pr24ClassLib.dll
+C:\Users\student247\source\repos\Pr24\pr24UnitTest\bin\Debug\Pr24ClassLib.pdb
+C:\Users\student247\source\repos\Pr24\pr24UnitTest\bin\Debug\Pr24.pdb
+C:\Users\student247\source\repos\Pr24\pr24UnitTest\bin\Debug\Pr24.exe.config
+D:\study\МДК-С#\Пр МДК\Pr24\Pr24\pr24UnitTest\obj\Debug\pr24UnitTest.csproj.AssemblyReference.cache
+D:\study\МДК-С#\Пр МДК\Pr24\Pr24\pr24UnitTest\obj\Debug\pr24UnitTest.csproj.CoreCompileInputs.cache
+D:\study\МДК-С#\Пр МДК\Pr24\Pr24\pr24UnitTest\obj\Debug\pr24UnitTest.pdb
+D:\study\МДК-С#\Пр МДК\Pr24\Pr24\pr24UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\study\МДК-С#\Пр МДК\Pr24\Pr24\pr24UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\study\МДК-С#\Пр МДК\Pr24\Pr24\pr24UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\study\МДК-С#\Пр МДК\Pr24\Pr24\pr24UnitTest\bin\Debug\Pr24.exe
+D:\study\МДК-С#\Пр МДК\Pr24\Pr24\pr24UnitTest\bin\Debug\Pr24ClassLib.dll
+D:\study\МДК-С#\Пр МДК\Pr24\Pr24\pr24UnitTest\bin\Debug\Pr24ClassLib.pdb
+D:\study\МДК-С#\Пр МДК\Pr24\Pr24\pr24UnitTest\bin\Debug\Pr24.pdb
+D:\study\МДК-С#\Пр МДК\Pr24\Pr24\pr24UnitTest\bin\Debug\Pr24.exe.config
+D:\study\МДК-С#\Пр МДК\Pr24\Pr24\pr24UnitTest\obj\Debug\pr24Unit.99C4C470.Up2Date
+D:\study\МДК-С#\Пр МДК\Pr24\Pr24\pr24UnitTest\obj\Debug\pr24UnitTest.dll

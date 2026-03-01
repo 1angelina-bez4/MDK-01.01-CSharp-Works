@@ -1,0 +1,18 @@
+C:\Users\student250\source\repos\Bezrukova_Pr23\Bezrukova_Pr23\obj\Debug\Bezrukova_Pr23.csproj.AssemblyReference.cache
+C:\Users\student250\source\repos\Bezrukova_Pr23\Bezrukova_Pr23\obj\Debug\Bezrukova_Pr23.csproj.CoreCompileInputs.cache
+C:\Users\student250\source\repos\Bezrukova_Pr23\Bezrukova_Pr23\bin\Debug\Bezrukova_Pr23.exe.config
+C:\Users\student250\source\repos\Bezrukova_Pr23\Bezrukova_Pr23\bin\Debug\Bezrukova_Pr23.exe
+C:\Users\student250\source\repos\Bezrukova_Pr23\Bezrukova_Pr23\bin\Debug\Bezrukova_Pr23.pdb
+C:\Users\student250\source\repos\Bezrukova_Pr23\Bezrukova_Pr23\obj\Debug\Bezrukova_Pr23.exe
+C:\Users\student250\source\repos\Bezrukova_Pr23\Bezrukova_Pr23\obj\Debug\Bezrukova_Pr23.pdb
+D:\study\МДК-С#\Пр МДК\Bezrukova_Pr23\Bezrukova_Pr23\Bezrukova_Pr23\obj\Debug\Bezrukova_Pr23.csproj.AssemblyReference.cache
+D:\study\МДК-С#\Пр МДК\Bezrukova_Pr23\Bezrukova_Pr23\Bezrukova_Pr23\obj\Debug\Bezrukova_Pr23.exe.config
+D:\study\МДК-С#\Пр МДК\Bezrukova_Pr23\Bezrukova_Pr23\Bezrukova_Pr23\obj\Debug\Bezrukova_Pr23.csproj.CoreCompileInputs.cache
+D:\study\МДК-С#\Пр МДК\Bezrukova_Pr23\Bezrukova_Pr23\Bezrukova_Pr23\obj\Debug\Bezrukova_Pr23.exe
+D:\study\МДК-С#\Пр МДК\Bezrukova_Pr23\Bezrukova_Pr23\Bezrukova_Pr23\obj\Debug\Bezrukova_Pr23.pdb
+D:\study\МДК-С#\Пр МДК\Bezrukova_Pr23\Bezrukova_Pr23\Bezrukova_Pr23\bin\Debug\Bezrukova_Pr23.exe.config
+D:\study\МДК-С#\Пр МДК\Bezrukova_Pr23\Bezrukova_Pr23\Bezrukova_Pr23\bin\Debug\Bezrukova_Pr23.exe
+D:\study\МДК-С#\Пр МДК\Bezrukova_Pr23\Bezrukova_Pr23\Bezrukova_Pr23\bin\Debug\Bezrukova_Pr23.pdb
+D:\study\МДК-С#\Пр МДК\Bezrukova_Pr23\Bezrukova_Pr23\Bezrukova_Pr23\bin\Debug\ClassLibrary1.dll
+D:\study\МДК-С#\Пр МДК\Bezrukova_Pr23\Bezrukova_Pr23\Bezrukova_Pr23\bin\Debug\ClassLibrary1.pdb
+D:\study\МДК-С#\Пр МДК\Bezrukova_Pr23\Bezrukova_Pr23\Bezrukova_Pr23\obj\Debug\Bezrukov.5D2CF36E.Up2Date
